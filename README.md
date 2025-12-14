@@ -1,3 +1,8 @@
+-=(Arduboy_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Arduboy_MiSTer
 
 Arduboy core for MiSTer, ported by Dan O'Shea and based on Iulian Gheorghiu's atmega core:
